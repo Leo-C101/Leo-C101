@@ -1,41 +1,110 @@
-# Hi, I'm Leo
+# Hi, I'm Leo 👋
 
 ## About Me
- - C++ developer who is focused on creating fun text-based games.
- - Very interested in what algorithms do, how they work, and how I can implement them.
- - Grade 12 student who lives in Ontario, Canada.
+- C++ developer focused on building fun, interactive text-based games  
+- Strong interest in algorithms: how they work and how to implement them efficiently  
+- Grade 12 student based in Ontario, Canada  
+
+---
 
 ## Projects
-  - EconBot 1.0 and 2.0 (https://github.com/Leo-C101/EconBot-2.0)
-      An economy Discord bot that I made for me and my friends to have fun with.
-      It had features that allowed users to get jobs, gamble, and buy businesses and properties
-      that produce passive income.
-      The project was overall very successful, but I took it offline due to issues with hosting.
-      It was written in JavaScript using Discord.js.
-      2.0 is an improved version of EconBot 1.0 that had new features, and was written in C++ using the
-      libary D++. It introduced dailies, weeklies, a larger variety of jobs, and player interactions
-      like coinflip duels and robbing.
-  - LC (https://github.com/Leo-C101/LC)
-      LC is the name of my toy programming language. The language has features like functions,
-      printing to the console, and creating and modifying variables.
-      The reason I'm not super proud of this is because I don't totally understand it, and could
-      not write it without a large amount of guidance of the internet.
-  - carrolljson (https://github.com/Leo-C101/carrolljson)
-      carrolljson is a simple header-only json library. It uses variants, but I also have a version
-      that uses strings to hold all values and parses them as necessary, which is much less efficient,
-      but my teacher told me that I am not allowed to use variants for school projects.
-      In its current state, it does not fully function and cannot but used, but it would not take
-      long to get it into working condition.
-      It uses the following project for all data types.
-  - carrolldatatypes (No updated repository)
-      carrolldatatypes is a custom library of data types. I made this because my teacher does not
-      want us using STL containers that we cannot implement on our own.
-      It has custom template classes for arrays, vectors, hashmaps, and queues.
+
+### 🔹 EconBot 1.0 & 2.0  
+🔗 https://github.com/Leo-C101/EconBot-2.0  
+
+A Discord economy bot built for fun and experimentation with game systems.
+
+**Features:**
+- Jobs, gambling, and purchasable businesses/properties  
+- Passive income systems  
+- Player interactions (coinflip duels, robbing, etc.)  
+- Daily and weekly rewards (v2.0)
+
+**Tech:**
+- v1.0: JavaScript (Discord.js)  
+- v2.0: C++ (D++)  
+
+**Notes:**  
+The project was widely used among friends but was taken offline due to hosting limitations. Version 2.0 significantly improved system depth and interactivity.
+
+---
+
+### 🔹 LC (Toy Programming Language)  
+🔗 https://github.com/Leo-C101/LC  
+
+A small experimental programming language.
+
+**Features:**
+- Functions  
+- Variables and assignment  
+- Console output  
+
+**Notes:**  
+This project was a learning experience. While functional, it was built with heavy external guidance, and I plan to revisit it with a deeper understanding in the future.
+
+---
+
+### 🔹 carrolljson  
+🔗 https://github.com/Leo-C101/carrolljson  
+
+A header-only JSON library written in C++.
+
+**Details:**
+- Variant-based implementation (primary version)  
+- Alternative string-based version (less efficient, but compliant with school constraints)  
+
+**Status:**  
+Currently incomplete and not production-ready, but close to being functional.
+
+**Dependency:**  
+- Built on top of `carrolldatatypes`
+
+---
+
+### 🔹 carrolldatatypes  
+(No public repo)
+
+A custom data structures library built for educational purposes.
+
+**Includes:**
+- Arrays  
+- Vectors  
+- Hash maps  
+- Queues  
+
+**Purpose:**  
+Created to avoid using STL containers and better understand underlying implementations.
+
+---
 
 ## Tech Stack
-  - Languages: C++, JavaScript, a bit of Python.
-  - Tools: Git, Visual Studio 2022, Node.js
-  - Libraries: SFML, OpenGL, PDCurses
+
+**Languages:**  
+- C++ (primary)  
+- JavaScript  
+- Python (basic)
+
+**Tools:**  
+- Git  
+- Visual Studio 2022  
+- Node.js  
+
+**Libraries:**  
+- SFML  
+- OpenGL  
+- PDCurses  
+
+---
 
 ## Current Focus
-  - Learning: How to optimize and use threads effectively.
+
+- Multithreading and performance optimization  
+- Writing more efficient and scalable systems  
+
+---
+
+## Future Goals
+
+- Build larger-scale C++ projects  
+- Improve low-level understanding of systems and memory  
+- Revisit older projects (like LC) with stronger fundamentals  
