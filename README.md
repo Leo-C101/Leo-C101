@@ -1,15 +1,44 @@
-# 💫 About Me:
-Hi, I'm Leo.<br><br>I enjoy coding, especially making text-based video games.<br><br>I am a Canadian high-school student in grade 12.<br><br>I have a deep passion for computer science, and am excited to pursue a career in the field.
+# Hi, I'm Leo
 
+## About Me
+ - C++ developer who is focused on creating fun text-based games.
+ - Very interested in what algorithms do, how they work, and how I can implement them.
+ - Grade 12 student who lives in Ontario, Canada.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Sketch Up](https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Leo-Carroll&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Leo-Carroll&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-C101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Projects
+  - EconBot 1.0 and 2.0 (https://github.com/Leo-C101/EconBot-2.0)
+      An economy Discord bot that I made for me and my friends to have fun with.
+      It had features that allowed users to get jobs, gamble, and buy businesses and properties
+      that produce passive income.
+      The project was overall very successful, but I took it offline due to issues with hosting.
+      It was written in JavaScript using Discord.js.
+      2.0 is an improved version of EconBot 1.0 that had new features, and was written in C++ using the
+      libary D++. It introduced dailies, weeklies, a larger variety of jobs, and player interactions
+      like coinflip duels and robbing.
+  - LC (https://github.com/Leo-C101/LC)
+      LC is the name of my toy programming language. The language has features like functions,
+      printing to the console, and creating and modifying variables.
+      The reason I'm not super proud of this is because I don't totally understand it, and could
+      not write it without a large amount of guidance of the internet.
+  - carrolljson (https://github.com/Leo-C101/carrolljson)
+      carrolljson is a simple header-only json library. It uses variants, but I also have a version
+      that uses strings to hold all values and parses them as necessary, which is much less efficient,
+      but my teacher told me that I am not allowed to use variants for school projects.
+      In its current state, it does not fully function and cannot but used, but it would not take
+      long to get it into working condition.
+      It uses the following project for all data types.
+  - carrolldatatypes (No updated repository)
+      carrolldatatypes is a custom library of data types. I made this because my teacher does not
+      want us using STL containers that we cannot implement on our own.
+      It has custom template classes for arrays, vectors, hashmaps, and queues.
 
----
-[![](https://visitcount.itsvg.in/api?id=Leo-Carroll&icon=0&color=0)](https://visitcount.itsvg.in)
+## Tech Stack
+  - Languages: C++, JavaScript, a bit of Python.
+  - Tools: Git, Visual Studio 2022, Node.js
+  - Libraries: SFML, OpenGL, PDCurses
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub Stats
+![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Leo-C101&showProfilePic=false&stars=false&forks=false&prs=false&issues=false&followers=false&following=false&rank=false&_t=1775708483843)
+
+## Current Focus
+  - Learning: How to optimize and use threads effectively.
