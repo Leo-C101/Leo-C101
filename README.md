@@ -7,7 +7,7 @@ Hi, I'm Leo.<br><br>I enjoy coding, especially making text-based video games.<br
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Leo-Carroll&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Leo-Carroll&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Carroll&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-C101&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Leo-Carroll&icon=0&color=0)](https://visitcount.itsvg.in)
