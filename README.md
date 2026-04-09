@@ -37,8 +37,5 @@
   - Tools: Git, Visual Studio 2022, Node.js
   - Libraries: SFML, OpenGL, PDCurses
 
-## GitHub Stats
-![GitHub Stats](https://www.readmecodegen.com/api/github-stats/svg?username=Leo-C101&showProfilePic=false&stars=false&forks=false&prs=false&issues=false&followers=false&following=false&rank=false&_t=1775708483843)
-
 ## Current Focus
   - Learning: How to optimize and use threads effectively.
