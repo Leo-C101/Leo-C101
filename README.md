@@ -54,10 +54,7 @@ A header-only JSON library written in C++.
 - Alternative string-based version (less efficient, but compliant with school constraints)  
 
 **Status:**  
-Currently incomplete and not production-ready, but close to being functional.
-
-**Dependency:**  
-- Built on top of `carrolldatatypes`
+Now complete and fully functional
 
 ---
 
