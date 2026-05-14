@@ -79,11 +79,11 @@ Created to avoid using STL containers and better understand underlying implement
 **Languages:**  
 - C++ (primary)  
 - JavaScript  
-- Python (basic)
+- Python (not much)
 
-**Tools:**  
+**Tools:**
 - Git  
-- Visual Studio 2022  
+- Visual Studio Code  
 - Node.js  
 
 **Libraries:**  
