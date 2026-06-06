@@ -89,7 +89,7 @@ Created to avoid using STL containers and better understand underlying implement
 **Libraries:**  
 - SFML  
 - OpenGL  
-- PDCurses  
+- ncurses  
 
 ---
 
