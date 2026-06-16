@@ -58,22 +58,6 @@ Now complete and fully functional
 
 ---
 
-### 🔹 carrolldatatypes  
-(No public repo)
-
-A custom data structures library built for educational purposes.
-
-**Includes:**
-- Arrays  
-- Vectors  
-- Hash maps  
-- Queues  
-
-**Purpose:**  
-Created to avoid using STL containers and better understand underlying implementations.
-
----
-
 ## Tech Stack
 
 **Languages:**  
