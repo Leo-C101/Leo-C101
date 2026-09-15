@@ -3,15 +3,15 @@
 - Rust and C++ dev currently focused on creating a compiled language.
 - First-year student at Algonquin College
 ## Tech Stack
-Languages:
+### Languages:
 - Rust
 - C++
 - Java
-Tools:
+### Tools:
 - Git
 - VS Code
 - Cargo
-Libraries:
+### Libraries:
 - OpenGL
 - ratatui
 - serde
